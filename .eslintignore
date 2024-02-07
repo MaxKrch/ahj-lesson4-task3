@@ -1,0 +1,5 @@
+dist
+coverage
+__e2e__
+doc
+webpack.*.js
