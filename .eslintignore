@@ -1,5 +1,6 @@
 dist
 coverage
 __e2e__
+__tests__
 doc
 webpack.*.js
