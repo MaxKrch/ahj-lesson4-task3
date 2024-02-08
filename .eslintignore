@@ -4,3 +4,4 @@ __e2e__
 __tests__
 doc
 webpack.*.js
+jest.config.js
